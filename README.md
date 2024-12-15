@@ -9,7 +9,7 @@ Minimum Matlab implementation of individual whole-body graph build-up in Sun, T.
    
 # How to use
 1. Prepare a list of organ SULs or SUVs for each subject as structured in the "subjects" folder.
-2. Run example_github.m to have a basic idea of how it works.
+2. Run example.m to have a basic idea of how it works.
 3. Substitute your datapath and generate an individual network for your purpose.
 
 # More information
