@@ -1,4 +1,4 @@
-# PETnet
+# WB-PETnet
 Minimum Matlab implementation of individual whole-body graph build-up in Sun, T., Wang, Z., Wu, Y. et al. Identifying the individual metabolic abnormities from a systemic perspective using whole-body PET imaging. Eur J Nucl Med Mol Imaging 49, 2994–3004 (2022).
 
 # Before you use
