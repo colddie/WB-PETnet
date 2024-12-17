@@ -39,6 +39,8 @@ pea_cd2(isnan(pea_cd2)) = 0;
 
 % Compute difference between networks
 tmp = pea_cd1 - pea_cd2;
+% zscore_group1 = atanh(pea_cd1)
+% zscore_group2 = atanh(pea_cd2)
 
 % Visualize individual graph
 h = schemaball(tmp, cellstr(labels), [1, 1, 0], [0, 1, 0]);
