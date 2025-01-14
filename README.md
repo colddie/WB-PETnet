@@ -20,3 +20,4 @@ The related publications have used this method so far
 3. Individual-specific metabolic network based on 18F-FDG PET revealing multi-level aberrant metabolisms in Parkinson's disease. Human Brain Mapping, 2024.
 4. Tau-PET abnormality as a biomarker for Alzheimer's disease staging and early detection: a topological perspective. Cereb Cortex. 2023.
 5. IG-GCN: Empowering e-Health Services for Alzheimer's Disease Prediction. IEEE Transactions on Consumer Electronics. 2024.
+6. Organs and Systems Glucose Metabolism Analysis in Different Smoking Groups for Lung Cancer Patients using Total-body PET/CT, IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC) and Room Temperature Semiconductor Detector Conference (RTSD), Tampa, USA, 2024.
