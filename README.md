@@ -15,9 +15,9 @@ Minimum Matlab implementation of individual whole-body graph build-up in Sun, T.
 # More information
 The original paper can be found here https://doi.org/10.1007/s00259-022-05832-7.
 The related publications have used this method so far
-1. Identifying the individual metabolic abnormalities from a systemic perspective using whole-body PET imaging. European Journal of Nuclear Medicine and Molecular Imaging. 2022;49:2994–3004.
-2. Metabolic interactions between organs in overweight and obesity using total-body positron emission tomography. International Journal of Obesity 2024.
-3. Individual-specific metabolic network based on 18F-FDG PET revealing multi-level aberrant metabolisms in Parkinson's disease. Human Brain Mapping, 2024.
-4. Tau-PET abnormality as a biomarker for Alzheimer's disease staging and early detection: a topological perspective. Cereb Cortex. 2023.
-5. IG-GCN: Empowering e-Health Services for Alzheimer's Disease Prediction. IEEE Transactions on Consumer Electronics. 2024.
-6. Organs and Systems Glucose Metabolism Analysis in Different Smoking Groups for Lung Cancer Patients using Total-body PET/CT, IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC) and Room Temperature Semiconductor Detector Conference (RTSD), Tampa, USA, 2024.
+* Identifying the individual metabolic abnormalities from a systemic perspective using whole-body PET imaging. European Journal of Nuclear Medicine and Molecular Imaging. 2022;49:2994–3004.
+* Metabolic interactions between organs in overweight and obesity using total-body positron emission tomography. International Journal of Obesity 2024.
+* Individual-specific metabolic network based on 18F-FDG PET revealing multi-level aberrant metabolisms in Parkinson's disease. Human Brain Mapping, 2024.
+* Tau-PET abnormality as a biomarker for Alzheimer's disease staging and early detection: a topological perspective. Cereb Cortex. 2023.
+* IG-GCN: Empowering e-Health Services for Alzheimer's Disease Prediction. IEEE Transactions on Consumer Electronics. 2024.
+* Organs and Systems Glucose Metabolism Analysis in Different Smoking Groups for Lung Cancer Patients using Total-body PET/CT, IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC) and Room Temperature Semiconductor Detector Conference (RTSD), Tampa, USA, 2024.
