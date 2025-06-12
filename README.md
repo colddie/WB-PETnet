@@ -21,3 +21,5 @@ The related publications have used this method so far
 * Tau-PET abnormality as a biomarker for Alzheimer's disease staging and early detection: a topological perspective. Cereb Cortex. 2023.
 * IG-GCN: Empowering e-Health Services for Alzheimer's Disease Prediction. IEEE Transactions on Consumer Electronics. 2024.
 * Organs and Systems Glucose Metabolism Analysis in Different Smoking Groups for Lung Cancer Patients using Total-body PET/CT, IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC) and Room Temperature Semiconductor Detector Conference (RTSD), Tampa, USA, 2024.
+* Sun L, Wu Y, Sun T. et al. The Brain-White Adipose Tissue Axis May Play a Crucial Role in Diabetes Mellitus: A Metabolic Network Analysis Using Total-Body PET/CT Imaging, European Journal of Nuclear Medicine and Molecular Imaging, 2025, online.
+* Tao, X., Wang, H., Hu, Zhanli et al. Exploring the metabolic landscape of lung adenocarcinoma and squamous cell carcinoma: a total-body [18F]FDG PET/CT approach. Eur J Nucl Med Mol Imaging, 2025.
