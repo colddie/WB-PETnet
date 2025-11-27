@@ -18,7 +18,7 @@ The related publications have used this method so far
 * Sun et al, Identifying the individual metabolic abnormalities from a systemic perspective using whole-body PET imaging. European Journal of Nuclear Medicine and Molecular Imaging. 2022;49:2994–3004.
 * Lu et al, Metabolic interactions between organs in overweight and obesity using total-body positron emission tomography. International Journal of Obesity 2024.
 * Lu et al,Individual-specific metabolic network based on 18F-FDG PET revealing multi-level aberrant metabolisms in Parkinson's disease. Human Brain Mapping, 2024.
-* Ding et al, Tau-PET abnormality as a biomarker for Alzheimer's disease staging and early detection: a topological perspective. Cereb Cortex. 2023.
+* Ding et al, Tau-PET abnormality as a biomarker for Alzheimer's disease staging and early detection: a topological perspective. Cerebral Cortex. 2023.
 * Chen et al,IG-GCN: Empowering e-Health Services for Alzheimer's Disease Prediction. IEEE Transactions on Consumer Electronics. 2024.
 * Wang et al, Organs and Systems Glucose Metabolism Analysis in Different Smoking Groups for Lung Cancer Patients using Total-body PET/CT, IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC) and Room Temperature Semiconductor Detector Conference (RTSD), Tampa, USA, 2024.
 * Sun et al. The Brain-White Adipose Tissue Axis May Play a Crucial Role in Diabetes Mellitus: A Metabolic Network Analysis Using Total-Body PET/CT Imaging, European Journal of Nuclear Medicine and Molecular Imaging, 2025.
