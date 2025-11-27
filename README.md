@@ -22,4 +22,6 @@ The related publications have used this method so far
 * IG-GCN: Empowering e-Health Services for Alzheimer's Disease Prediction. IEEE Transactions on Consumer Electronics. 2024.
 * Organs and Systems Glucose Metabolism Analysis in Different Smoking Groups for Lung Cancer Patients using Total-body PET/CT, IEEE Nuclear Science Symposium (NSS), Medical Imaging Conference (MIC) and Room Temperature Semiconductor Detector Conference (RTSD), Tampa, USA, 2024.
 * Sun L, Wu Y, Sun T. et al. The Brain-White Adipose Tissue Axis May Play a Crucial Role in Diabetes Mellitus: A Metabolic Network Analysis Using Total-Body PET/CT Imaging, European Journal of Nuclear Medicine and Molecular Imaging, 2025.
-* Tao, X., Wang, H., Hu, Zhanli et al. Exploring the metabolic landscape of lung adenocarcinoma and squamous cell carcinoma: a total-body [18F]FDG PET/CT approach. European Journal of Nuclear Medicine and Molecular Imaging, 2025.
+* Tao X, Wang H, Hu Zhanli et al. Exploring the metabolic landscape of lung adenocarcinoma and squamous cell carcinoma: a total-body [18F]FDG PET/CT approach. European Journal of Nuclear Medicine and Molecular Imaging, 2025.
+* Tao X, Guan Z, Hu Zhanli et al. Mapping systemic inter-organ metabolic networks across the glycemic continuum using whole-body [¹⁸F]FDG PET/CT and machine learning. European Journal of Nuclear Medicine and Molecular Imaging, 2025.
+* Wang H, Guan Z, Hu Zhanli et al. Metabolic network analysis of lung adenocarcinoma and squamous cell carcinoma via static and dynamic total-body PET/CT imaging. Medical Physics, 2025.
