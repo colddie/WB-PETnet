@@ -26,3 +26,4 @@ The related publications have used this method so far
 * Tao X, Wang H, Hu Zhanli et al. Exploring the metabolic landscape of lung adenocarcinoma and squamous cell carcinoma: a total-body [18F]FDG PET/CT approach. European Journal of Nuclear Medicine and Molecular Imaging, 2025.
 * Tao X, Guan Z, Hu Zhanli et al. Mapping systemic inter-organ metabolic networks across the glycemic continuum using whole-body [¹⁸F]FDG PET/CT and machine learning. European Journal of Nuclear Medicine and Molecular Imaging, 2025.
 * Wang H, Guan Z, Hu Zhanli et al. Metabolic network analysis of lung adenocarcinoma and squamous cell carcinoma via static and dynamic total-body PET/CT imaging. Medical Physics, 2025.
+* Hellman, AF, Clegg, PS, Marie, S, Tournier, N & Tavares, AAS 2025, 'Comparing three methodologies for network analysis of human [11C]glyburide whole-body PET data: d-networks, s-networks, and ΔPCC networks', EJNMMI research, 2025.
