@@ -17,7 +17,7 @@ The original paper can be found here https://doi.org/10.1007/s00259-022-05832-7.
 * Sun et al, Identifying the individual metabolic abnormalities from a systemic perspective using whole-body PET imaging. European Journal of Nuclear Medicine and Molecular Imaging. 2022;49:2994–3004.
   
 # The related publications have used this method so far
-* Maccioni L, Knyzeliene A, Alcaide-Corral CJ, Reid VJ, Morgan TEF, Henry MC, Sutherland A, Veronese M, Tavares AAS. Network-Based Analysis for the Quantification of Brain and Body Immune Axes with Total-Body PET Imaging. Journal of Nuclear Medicine (online ahead of print), 2026.
+* Maccioni L, Knyzeliene A, Alcaide-Corral CJ, Reid VJ, Morgan TEF, Henry MC, Sutherland A, Veronese M, Tavares AAS. Network-Based Analysis for the Quantification of Brain and Body Immune Axes with Total-Body PET Imaging. Journal of Nuclear Medicine, 2026.
 * Sun et al. The Brain-White Adipose Tissue Axis May Play a Crucial Role in Diabetes Mellitus: A Metabolic Network Analysis Using Total-Body PET/CT Imaging. European Journal of Nuclear Medicine and Molecular Imaging, 2025.
 * Chen et al, MR-guided graph learning of 18F-florbetapir PET enables accurate and interpretable Alzheimer’s disease staging. NeuroImage, 2025.
 * Tao X, Wang H, Hu Zhanli et al. Exploring the metabolic landscape of lung adenocarcinoma and squamous cell carcinoma: a total-body [18F]FDG PET/CT approach. European Journal of Nuclear Medicine and Molecular Imaging, 2025.
