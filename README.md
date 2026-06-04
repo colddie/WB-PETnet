@@ -17,6 +17,8 @@ The original paper can be found here https://doi.org/10.1007/s00259-022-05832-7.
 * Sun et al, Identifying the individual metabolic abnormalities from a systemic perspective using whole-body PET imaging. European Journal of Nuclear Medicine and Molecular Imaging. 2022;49:2994–3004.
   
 # The publications have used this method so far (not complete)
+* Ferrandez M, Tolboom N, Visser D, et al. PET connectomes can identify long COVID patients from those without persistent complaints. J Nucl Med. 2026;67(Suppl 1):261392.
+* Li X, Shi Z, Hacker M, et al. Mapping whole-body metabolic dysregulation from a healthy coordination template using FDG PET. J Nucl Med. 2026;67(Suppl 1):261963.
 * Guan, Z., Tao, X., Qu, J. et al. A network analysis of whole-body [18F]FDG PET/CT reveals glycaemia-associated reorganization of systemic metabolic coordination. Eur J Nucl Med Mol Imaging 2026.
 * Xu Z, Mijalkov M, Sun J, et al. Mapping individual molecular connectomes in Alzheimer's disease. Alzheimer's Dement. 2026.
 * Maccioni L, Knyzeliene A, Alcaide-Corral CJ, Reid VJ, Morgan TEF, Henry MC, Sutherland A, Veronese M, Tavares AAS. Network-Based Analysis for the Quantification of Brain and Body Immune Axes with Total-Body PET Imaging. Journal of Nuclear Medicine, 2026.
