@@ -33,3 +33,6 @@ The original paper can be found here https://doi.org/10.1007/s00259-022-05832-7.
 * Chen et al, IG-GCN: Empowering e-Health Services for Alzheimer’s Disease Prediction. IEEE Transactions on Consumer Electronics, 2024.
 * Wang et al, Organs and Systems Glucose Metabolism Analysis in Different Smoking Groups for Lung Cancer Patients using Total-body PET/CT. IEEE NSS/MIC/RTSD, Tampa, USA, 2024.
 * Ding et al, Tau-PET abnormality as a biomarker for Alzheimer’s disease staging and early detection: a topological perspective. Cerebral Cortex, 2023.
+
+# More information
+To be done: Enable covariate analysis and high-order network coefficients.
